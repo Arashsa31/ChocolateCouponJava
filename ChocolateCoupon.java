@@ -32,22 +32,6 @@ public class ChocolateCoupon
 {
 	public static void main(String[] args) 
 	{
-		/*
-		 * psudo code  ish~
-		 * 
-		 * while N > 0  
-		 * 		chocolate ++ 		
-		 * 		N --
-		 * new chocolates = chocolate / 6
-		 * remaining coupons = chocolate % 6 
-		 * 
-		 * coupons = chocolate
-		 * while coupons > 5
-		 * 		chocolate ++
-		 * 		coupon ++
-		 * 		coupon - 6
-		 */
-		
 		//variables
 		int chocolate = 0;
 		int couponChocolate = 0;
